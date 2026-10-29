@@ -9,8 +9,10 @@
   <a href="https://linkedin.com/in/vasanthsen">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/vasanthasenan3">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/vasanthasenan3?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+</a>
+
   </a>
 </p>
 
